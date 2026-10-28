@@ -13,4 +13,4 @@ I'm a programming student learning how to write code, solve problems, and build 
 ### Some random facts:
 - I love my user name (:
 - Favorite game Hollow Knight.
-- I love editing video's and I'm making realy good thumbnails btw.
+- I love editing video's and I'm making really good thumbnails btw.
