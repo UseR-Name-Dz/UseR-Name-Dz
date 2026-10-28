@@ -1,16 +1,22 @@
 # Hi, I'm user_name 👋
 
-I'm a programming student learning how to write code, solve problems, and build useful projects.
+I'm a programming student learning to write code, solve problems, and build useful projects.
 
-### What I'm Working On
-- Now I'm learning **C**.
-- Practicing algorithms and data structures.
-### Projects:
-- I'm currently working on small programming projects (a lot coming soon...).
-### Contact:
-- You can contact me on Discord: [https://discord.com/users/802292223206490112]
-- Or instagram: [https://www.instagram.com/g0.a.t/]
-### Some random facts:
-- I love my user name (:
-- Favorite game Hollow Knight.
-- I love editing video's and I'm making really good thumbnails btw.
+### 💻 What I'm Working On
+- Learning **C programming**.
+- Practicing **algorithms and data structures**.
+- Improving my problem-solving skills.
+
+### 📂 Projects
+I'm working on small programming projects as I learn. More projects coming soon!
+
+### 📫 Contact Me
+- **Discord:** [Message me on Discord](https://discord.com/users/802292223206490112)
+- **Instagram:** [@g0.a.t](https://www.instagram.com/g0.a.t/)
+
+### 🎮 Random Facts About Me
+- I love my username. :)
+- My favorite game is **Hollow Knight**.
+- I love video editing, and I'm pretty good at making thumbnails!
+
+Thanks for visiting my profile! 👋
